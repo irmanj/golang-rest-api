@@ -2,8 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	//"fmt"
-	//"encoding/json"
 	"log"
 	"net/http"
 	"math/rand"
